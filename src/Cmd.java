@@ -8,5 +8,6 @@ public class Cmd {
 
     public void print(){
         System.out.println("The message is: " + this.text);
+        System.out.println("additional text");
     }
 }
